@@ -213,6 +213,42 @@ learned, put your referral link in it, and publish it where developers
 read.** A clear guide compounds — it earns referral rewards, it brings the
 next newcomer in, and it is the reason this repository exists.
 
+## A worked first evening (about ninety minutes)
+
+People ask me how long a first entry really takes. Here is the evening I
+would plan for a small bounty, start to submitted:
+
+- **0–10 min — paperwork first.** Sign up, link GitHub and your wallet, and
+  copy your referral link somewhere you will not lose it. Boring, and it
+  removes the two most common intake refusals before they exist.
+- **10–25 min — read, do not build.** The bounty page, then `RULES.txt`,
+  then the requirements endpoint. Write the deadline, in your timezone, at
+  the top of a note. Decide in or out on prerequisites alone.
+- **25–70 min — build in one recorded session.** Start the session after
+  the bounty opened, let your agent write the files, and commit in small
+  steps. When a draft exists, stop and re-read it like a stranger would:
+  that re-read is where the second-pass revision comes from.
+- **70–85 min — revise and pre-flight.** Apply the fixes your re-read found,
+  commit them separately, and run `makefun check` on the exact commit you
+  intend to submit. A red check here is free; the same red after submitting
+  may cost a daily entry.
+- **85–90 min — submit and watch.** Submit, open the status page, and stay
+  until the checks finish. "Sent" is not "in" — checked is in.
+
+That rhythm — read, draft, revise, check, submit — is the whole craft.
+Everything else on this page is commentary on those five verbs.
+
+## If your first entry is refused
+
+Do not start over, and do not argue with the check. A refusal names the
+check, the reason, and a fix sentence written to be followed literally.
+Fix exactly that, in the same repository, with your agent making the edit
+in a new message so the revision is visible in the transcripts, then
+resubmit the new commit while the bounty is open. In my experience the
+second attempt of a careful entrant passes more often than the first
+attempt of a fast one — the gate rewards people who treat a refusal as
+instructions, not as a verdict on their ability.
+
 ## Quick checklist to tape above your desk
 
 - [ ] Profile finished: username, GitHub linked, wallet linked
